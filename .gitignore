@@ -93,3 +93,6 @@ db.sqlite3
 
 #Settings
 settings.py
+
+#IdeaFiles PyCharm
+.idea
