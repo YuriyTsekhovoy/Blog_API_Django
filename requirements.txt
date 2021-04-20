@@ -6,7 +6,7 @@ httpie==0.9.9
 idna==2.6
 pkg-resources==0.0.0
 psycopg2==2.7.1
-py==1.5.2
+py==1.10.0
 Pygments==2.2.0
 pytest==3.0.6
 pytest-django==3.1.2
